@@ -1,0 +1,7 @@
+line arrow: a->b
+line gt: x>y
+line lt: p<q
+line amp: a&b
+> blockquote
+url: <https://example.com>
+entity literal: &gt; &lt; &amp;
